@@ -1,6 +1,8 @@
 # Opencart Fast Product Price Editing
 This small extension list all products with pager, you can see your products on list with price and edit product's price. Just change product's price and click save, change other and click save. 
 
+* Just install opencart 3.x or upper.
+
 # why ?
 I wrote this after adding all products and want to change products price with my customer. You can use when necessary it.
 
